@@ -1,0 +1,12 @@
+# Ignore direnv
+.direnv
+.envrc
+
+.gradle
+
+build/
+bin/
+
+.classpath
+.project
+.settings/
