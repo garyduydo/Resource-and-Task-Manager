@@ -1,8 +1,8 @@
-# Virtual Scroll Administration System (VSAS)
+# Resource and Task Manager
 
 ## Overview
 
-VSAS is a command-line based resource and task management system built in Java. It provides functionalities for managing users and resources (referred to as "scrolls") through a secure, proxy-protected interface. The system includes administration capabilities, event logging, and a filesystem-based storage mechanism.
+This is a command-line based resource and task management system built in Java. It provides functionalities for managing users and resources (referred to as "scrolls") through a secure, proxy-protected interface. The system includes administration capabilities, event logging, and a filesystem-based storage mechanism.
 
 ## Features
 
